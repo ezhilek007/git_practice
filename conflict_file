@@ -1,2 +1,7 @@
 This is conflict 1
+<<<<<<< HEAD
 This is from master
+=======
+This is from conf_branch
+>>>>>>> conflict_branch
+its okay
