@@ -1,2 +1,8 @@
 This is conf file 1
+<<<<<<< HEAD
 This is from master
+=======
+This is again conf branch
+>>>>>>> conflict_branch
+Its okay
+
